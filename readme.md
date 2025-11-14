@@ -274,10 +274,11 @@
 
 #### Basic
 
--   [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen. - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.  
-    -   [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    -   [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-    -   [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
+-   [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+	- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.  
+    - [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    - [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
+    - [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 -   [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
 -   [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.  
 -   [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
